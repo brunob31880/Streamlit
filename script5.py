@@ -11,7 +11,7 @@ page = st.sidebar.radio("Aller à", ["Accueil", "Dérivation", "Évaluation"])
 if page == "Accueil":
     st.header("Bienvenue dans l'application Streamlit !")
     st.write("Utilisez la barre de navigation à gauche pour choisir une opération.")
-    st.image("https://media.giphy.com/media/l3vR1kDOvhJ8i/giphy.gif", width=300)
+    st.image("./reflexion.png", width=300)
 
 # Page de dérivation (exemple simple)
 elif page == "Dérivation":

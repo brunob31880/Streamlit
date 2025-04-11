@@ -1,0 +1,10 @@
+button {
+    height: 60px;
+    width: 60px;
+    font-size: 24px;
+    margin: 3px;
+}
+
+button:has-text("Effacer") {
+    width: 120px;
+}
