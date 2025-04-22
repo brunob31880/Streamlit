@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="DB Schema" id="dB1234">
+    <mxGraphModel dx="1380" dy="739" grid="1" gridSize="10" guides="1">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Table: ingested_files -->
+        <mxCell id="2" value="ingested_files&#xa;----------------------&#xa;id (PK)&#xa;filename&#xa;ingestion_date&#xa;page_count" style="shape=swimlane;whiteSpace=wrap;container=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="140" as="geometry"/>
+        </mxCell>
+
+        <!-- Table: queries -->
+        <mxCell id="3" value="queries&#xa;----------------------&#xa;id (PK)&#xa;question&#xa;query_date&#xa;model_used&#xa;embedding_model&#xa;file_id (FK)" style="shape=swimlane;whiteSpace=wrap;container=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="200" height="180" as="geometry"/>
+        </mxCell>
+
+        <!-- Table: answers -->
+        <mxCell id="4" value="answers&#xa;----------------------&#xa;id (PK)&#xa;answer&#xa;answer_date&#xa;query_id (FK)" style="shape=swimlane;whiteSpace=wrap;container=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="200" height="140" as="geometry"/>
+        </mxCell>
+
+        <!-- Table: settings -->
+        <mxCell id="5" value="settings&#xa;----------------------&#xa;id (PK)&#xa;llm_model&#xa;embedding_model&#xa;last_updated" style="shape=swimlane;whiteSpace=wrap;container=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="200" height="140" as="geometry"/>
+        </mxCell>
+
+        <!-- FK: queries.file_id → ingested_files.id -->
+        <mxCell id="6" style="endArrow=block;endFill=1;" edge="1" parent="1" source="3" target="2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- FK: answers.query_id → queries.id -->
+        <mxCell id="7" style="endArrow=block;endFill=1;" edge="1" parent="1" source="4" target="3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

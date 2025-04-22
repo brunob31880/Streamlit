@@ -1,3 +1,9 @@
+cheat sheet 
+
+https://docs.streamlit.io/develop/quick-reference/cheat-sheet
+
+
+
 # Script1
 
 Title, Write
@@ -34,3 +40,5 @@ Utilisation de l'API
 
 # Déploiement
 docker
+https://docs.streamlit.io/deploy/tutorials/docker
+

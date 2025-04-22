@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d8" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d7" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d6" for="edge" attr.name="description" attr.type="string"/>
+<key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Invincible">
+  <data key="d0">Invincible</data>
+  <data key="d1">person</data>
+  <data key="d2">Invincible is Mark Grayson's superhero alias. He uses his powers to protect people and fight evil.&lt;SEP&gt;Invincible refers to a superhero and related media franchise.&lt;SEP&gt;Invincible is Mark Grayson's superhero persona, representing his powerful abilities and commitment to justice.</data>
+  <data key="d3">chunk-45ec77ce77497b61a692bbd5719e32a2&lt;SEP&gt;chunk-ed9324a0de4f8fc6cfa9ab9bc0978c8a&lt;SEP&gt;chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Mark Grayson">
+  <data key="d0">Mark Grayson</data>
+  <data key="d1">person</data>
+  <data key="d2">Mark Grayson is the protagonist of the Invincible comic book series and its related adaptations.&lt;SEP&gt;Mark Grayson is the protagonist of the Invincible comics and animated series. He's half-human, half-Viltrumite with superhuman abilities like strength, speed, and flight.&lt;SEP&gt;Mark Grayson, also known as Invincible, is the protagonist of the comic book series and animated TV show. He develops superpowers at age 17 and struggles with his father's true identity.&lt;SEP&gt;Mark Grayson, also known as Invincible, is a superhero with Viltrumite powers. He possesses superhuman strength, speed, durability, and flight, but has weaknesses such as vulnerability to certain frequencies affecting his ears and occasional loss of composure.&lt;SEP&gt;Mark Grayson, also known as Invincible, is the main protagonist in the comics and television series. He possesses superpowers and grapples with moral dilemmas.</data>
+  <data key="d3">chunk-7960578564278b4cd4ed2ebb4e4e15a1&lt;SEP&gt;chunk-ed9324a0de4f8fc6cfa9ab9bc0978c8a&lt;SEP&gt;chunk-29de497ae560bafcf8e0abd351378cc7&lt;SEP&gt;chunk-45ec77ce77497b61a692bbd5719e32a2&lt;SEP&gt;chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Omni-Man">
+  <data key="d0">Omni-Man</data>
+  <data key="d1">person</data>
+  <data key="d2">Omni-Man is Mark Grayson's father and a powerful Viltrumite, who betrays his son.&lt;SEP&gt;Omni-Man is Mark Grayson's father, initially portrayed as a heroic figure but later revealed to be an alien conqueror.</data>
+  <data key="d3">chunk-ed9324a0de4f8fc6cfa9ab9bc0978c8a&lt;SEP&gt;chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Empire Viltrumite">
+  <data key="d0">Empire Viltrumite</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Empire Viltrumite is a villainous organization that poses a threat to Earth in the Invincible universe.</data>
+  <data key="d3">chunk-ed9324a0de4f8fc6cfa9ab9bc0978c8a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Amazon Prime Video">
+  <data key="d0">Amazon Prime Video</data>
+  <data key="d1">organization</data>
+  <data key="d2">Amazon Prime Video is a streaming service offering access to a library of movies, TV shows, and original content, including Invincible.&lt;SEP&gt;Amazon Prime Video is the streaming platform that airs the animated series 'Invincible'.&lt;SEP&gt;Amazon Prime Video is the streaming platform where the animated series 'Invincible' is available.</data>
+  <data key="d3">chunk-ed9324a0de4f8fc6cfa9ab9bc0978c8a&lt;SEP&gt;chunk-7960578564278b4cd4ed2ebb4e4e15a1&lt;SEP&gt;chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Steven Yeun">
+  <data key="d0">Steven Yeun</data>
+  <data key="d1">person</data>
+  <data key="d2">Steven Yeun is the actor who voices Mark Grayson in the 'Invincible' animated series.</data>
+  <data key="d3">chunk-ed9324a0de4f8fc6cfa9ab9bc0978c8a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Viltrumite">
+  <data key="d0">Viltrumite</data>
+  <data key="d1">category</data>
+  <data key="d2">Viltrumite refers to a race of powerful extraterrestrial beings known for their strength and longevity. This category encompasses individuals like Vilgax and other characters with similar traits.&lt;SEP&gt;Viltrumites are a fictional race of super-powered beings known for their strength and resilience.&lt;SEP&gt;Viltrumites are an extraterrestrial race of superpowered beings known for their immense strength and aggressive nature.</data>
+  <data key="d3">chunk-45ec77ce77497b61a692bbd5719e32a2&lt;SEP&gt;chunk-4d54da394dab561fea81b12a9614ce2f&lt;SEP&gt;chunk-ed9324a0de4f8fc6cfa9ab9bc0978c8a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Viltrumites">
+  <data key="d0">Viltrumites</data>
+  <data key="d1">category</data>
+  <data key="d2">The Viltrumites are a race of powerful aliens with conquering ambitions. They possess superhuman abilities and are led by Omni-Man.</data>
+  <data key="d3">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Atom Eve">
+  <data key="d0">Atom Eve</data>
+  <data key="d1">person</data>
+  <data key="d2">Atom Eve is a superhero who forms a romantic relationship with Mark Grayson and has a daughter named Terra.</data>
+  <data key="d3">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Terra">
+  <data key="d0">Terra</data>
+  <data key="d1">person</data>
+  <data key="d2">Terra is the daughter of Mark Grayson and Atom Eve.</data>
+  <data key="d3">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="World Athletics Championship">
+  <data key="d0">World Athletics Championship</data>
+  <data key="d1">event</data>
+  <data key="d2">The World Athletics Championship is a global sports competition featuring top athletes in track and field.</data>
+  <data key="d3">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Robert Kirkman">
+  <data key="d0">Robert Kirkman</data>
+  <data key="d1">person</data>
+  <data key="d2">Robert Kirkman is the creator of the 'Invincible' comic book series.</data>
+  <data key="d3">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Force surhumaine">
+  <data key="d0">Force surhumaine</data>
+  <data key="d1">organization</data>
+  <data key="d2">Force surhumaine is a Canadian comic book publisher.</data>
+  <data key="d3">chunk-b8b742930b19ee1438f2c86ca9151dc2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Canada">
+  <data key="d0">Canada</data>
+  <data key="d3">chunk-b8b742930b19ee1438f2c86ca9151dc2</data>
+  <data key="d2">Force surhumaine is based in Canada, indicating its national origin and market focus."|&lt;|"location, publishing</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Nolan">
+  <data key="d0">Nolan</data>
+  <data key="d1">person</data>
+  <data key="d2">Nolan is an individual capable of planet-destroying feats.</data>
+  <data key="d3">chunk-b63a52ba3d2fe8f2ac7d3cd2e1360421</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Thaedus">
+  <data key="d0">Thaedus</data>
+  <data key="d1">person</data>
+  <data key="d2">Thaedus is an individual capable of planet-destroying feats.</data>
+  <data key="d3">chunk-b63a52ba3d2fe8f2ac7d3cd2e1360421</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Capable de détruire une planète avec Nolan et Thaedus">
+  <data key="d0">Capable de détruire une planète avec Nolan et Thaedus</data>
+  <data key="d1">organization</data>
+  <data key="d2">An unnamed organization or entity capable of planet destruction in collaboration with Nolan and Thaedus.</data>
+  <data key="d3">chunk-b63a52ba3d2fe8f2ac7d3cd2e1360421</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="4000 miles">
+  <data key="d0">4000 miles</data>
+  <data key="d1">geo</data>
+  <data key="d2">A geographical distance of 4000 miles, referencing the initial range of a launched object.</data>
+  <data key="d3">chunk-b63a52ba3d2fe8f2ac7d3cd2e1360421</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="David Hiles">
+  <data key="d0">David Hiles</data>
+  <data key="d1">person</data>
+  <data key="d2">David Hiles is the subject of a narrative describing superhuman endurance and ability to traverse vast distances quickly.</data>
+  <data key="d3">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="secondes">
+  <data key="d0">secondes</data>
+  <data key="d3">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d2">The transportation of David Hiles takes place over seconds, indicating high speed."|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="minutes">
+  <data key="d0">minutes</data>
+  <data key="d3">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d2">David Hiles reaches orbit within minutes, suggesting rapid travel to space.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="orbite">
+  <data key="d0">orbite</data>
+  <data key="d3">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d2">David Hiles achieves orbit around a celestial body, indicating successful space travel."|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="balles">
+  <data key="d0">balles</data>
+  <data key="d3">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d2">David Hiles evades projectiles during his transportation, implying danger and survival skills."|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="... ">
+  <data key="d0">... </data>
+  <data key="d1">person</data>
+  <data key="d2">A fictional person with superhuman resilience.</data>
+  <data key="d3">chunk-74d6d7ed7e8ad8413994096a654166db</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="...">
+  <data key="d0">...</data>
+  <data key="d1">person</data>
+  <data key="d2">A fictional person described as able to fight for extended periods.&lt;SEP&gt;A prolonged combat scenario involving the referenced person. </data>
+  <data key="d3">chunk-74d6d7ed7e8ad8413994096a654166db</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Thragg">
+  <data key="d0">Thragg</data>
+  <data key="d1">person</data>
+  <data key="d2">Thragg is a Viltrumite leader, serving as the main antagonist in the series. He leads an empire seeking galactic domination.&lt;SEP&gt;Thragg is a powerful Viltrumite character, notorious for his ruthlessness and desire for conquest. He is frequently depicted as an antagonist.</data>
+  <data key="d3">chunk-4d54da394dab561fea81b12a9614ce2f&lt;SEP&gt;chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Système d'équilibre complexe dans les oreilles internes">
+  <data key="d0">Système d'équilibre complexe dans les oreilles internes</data>
+  <data key="d1">category</data>
+  <data key="d2">A system of balancing mechanisms located within the inner ear, essential for maintaining equilibrium.</data>
+  <data key="d3">chunk-d8e806196a0decfe7091e8dd40ece0bc</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Voyage interstellaire">
+  <data key="d0">Voyage interstellaire</data>
+  <data key="d1">event</data>
+  <data key="d2">Interstellar travel refers to journeys undertaken between stars and distant celestial bodies.</data>
+  <data key="d3">chunk-d8e806196a0decfe7091e8dd40ece0bc</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Survive">
+  <data key="d0">Survive</data>
+  <data key="d1">organization</data>
+  <data key="d2">Survive is an organization or entity focused on providing survival capabilities.</data>
+  <data key="d3">chunk-19dbea2398c9f58e7406437489b88a39</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Capacité pulmonaire accrue">
+  <data key="d0">Capacité pulmonaire accrue</data>
+  <data key="d1">category</data>
+  <data key="d2">Capacité pulmonaire accrue (increased lung capacity) is a characteristic or capability relevant to survival in demanding situations.</data>
+  <data key="d3">chunk-19dbea2398c9f58e7406437489b88a39</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Peut">
+  <data key="d0">Peut</data>
+  <data key="d1">category</data>
+  <data key="d2">Refers to a category of fictional beings or entities capable of holding their breath for extended periods.</data>
+  <data key="d3">chunk-3e77166d45ae7f2755119de930d3e506</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Invulnérabilité">
+  <data key="d0">Invulnérabilité</data>
+  <data key="d1">category</data>
+  <data key="d2">Describes a state of being immune or highly resistant to damage or harm, often associated with mythical or supernatural powers.</data>
+  <data key="d3">chunk-3e77166d45ae7f2755119de930d3e506</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Immuinsensible">
+  <data key="d0">Immuinsensible</data>
+  <data key="d1">organization</data>
+  <data key="d2">Information about an organization called 'Immuinsensible' is lacking in the provided text.</data>
+  <data key="d3">chunk-1a2a86980f7cdf16a91c60768a2f41bd</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Immunisé contre les dommages">
+  <data key="d0">Immunisé contre les dommages</data>
+  <data key="d1">category</data>
+  <data key="d2">Describes a state of immunity to damage.</data>
+  <data key="d3">chunk-1a2a86980f7cdf16a91c60768a2f41bd</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="survécu à des balles">
+  <data key="d0">survécu à des balles</data>
+  <data key="d1">event</data>
+  <data key="d2">Survived being shot at, implying resistance to physical harm.</data>
+  <data key="d3">chunk-1a2a86980f7cdf16a91c60768a2f41bd</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="une bombe nucléaire">
+  <data key="d0">une bombe nucléaire</data>
+  <data key="d1">event</data>
+  <data key="d2">A nuclear bomb explosion survived, indicating extreme resilience.</data>
+  <data key="d3">chunk-1a2a86980f7cdf16a91c60768a2f41bd</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="plusieurs bombes à hydrogène">
+  <data key="d0">plusieurs bombes à hydrogène</data>
+  <data key="d1">event</data>
+  <data key="d2">Survival of multiple hydrogen bombs, further highlighting exceptional durability.</data>
+  <data key="d3">chunk-1a2a86980f7cdf16a91c60768a2f41bd</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Une maladie">
+  <data key="d0">Une maladie</data>
+  <data key="d1">category</data>
+  <data key="d2">Un terme général désignant une affection ou un état anormal qui affecte le corps.</data>
+  <data key="d3">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Immunisé">
+  <data key="d0">Immunisé</data>
+  <data key="d1">category</data>
+  <data key="d2">Describes a state of being protected from the effects of diseases.</data>
+  <data key="d3">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Maladies">
+  <data key="d0">Maladies</data>
+  <data key="d1">category</data>
+  <data key="d2">General term for illnesses or abnormal conditions affecting the body.</data>
+  <data key="d3">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Régénération">
+  <data key="d0">Régénération</data>
+  <data key="d1">category</data>
+  <data key="d2">The process of tissues and organs repairing themselves after injury.</data>
+  <data key="d3">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Blessures graves">
+  <data key="d0">Blessures graves</data>
+  <data key="d1">category</data>
+  <data key="d2">Serious injuries that can cause significant damage to the body.</data>
+  <data key="d3">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Bras cassé">
+  <data key="d0">Bras cassé</data>
+  <data key="d1">event</data>
+  <data key="d2">A specific type of fracture where the humerus bone in the arm is broken.</data>
+  <data key="d3">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Vieillissement ralenti">
+  <data key="d0">Vieillissement ralenti</data>
+  <data key="d1">category</data>
+  <data key="d2">A decrease in the rate at which biological aging occurs.</data>
+  <data key="d3">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Immunisé contre les maladies">
+  <data key="d0">Immunisé contre les maladies</data>
+  <data key="d3">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d2">Être immunisé signifie être protégé contre l'effet des maladies.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Vieillit lentement">
+  <data key="d0">Vieillit lentement</data>
+  <data key="d1">category</data>
+  <data key="d2">Refers to a characteristic of aging slowly, potentially living for thousands of years.</data>
+  <data key="d3">chunk-2b7ec891c32d97c5a6a27693875447b8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Génétique dominante">
+  <data key="d0">Génétique dominante</data>
+  <data key="d1">category</data>
+  <data key="d2">Refers to a genetic characteristic that is prevalent and strongly expressed.</data>
+  <data key="d3">chunk-2b7ec891c32d97c5a6a27693875447b8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Atom Eve (Samantha Eve Wilkins)">
+  <data key="d0">Atom Eve (Samantha Eve Wilkins)</data>
+  <data key="d1">person</data>
+  <data key="d2">Atom Eve is Mark Grayson's romantic partner and eventual wife. She is a powerful hero with energy manipulation abilities.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Terra Grayson">
+  <data key="d0">Terra Grayson</data>
+  <data key="d1">person</data>
+  <data key="d2">Terra Grayson is the daughter of Mark Grayson and Atom Eve, inheriting Viltrumite powers and becoming the third Invincible.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Oliver Grayson (Kid Omni-Man, Young Omni-Man)">
+  <data key="d0">Oliver Grayson (Kid Omni-Man, Young Omni-Man)</data>
+  <data key="d1">person</data>
+  <data key="d2">Oliver Grayson is Mark's half-brother, born from his father Nolan's relationship with a Thraxan named Andressa.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Markus Murphy (Marky, aka Kid Invincible)">
+  <data key="d0">Markus Murphy (Marky, aka Kid Invincible)</data>
+  <data key="d1">person</data>
+  <data key="d2">Markus Murphy is Mark's son, conceived through rape by the Viltrumite Anissa. </data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Nolan Grayson (Omni-Man)">
+  <data key="d0">Nolan Grayson (Omni-Man)</data>
+  <data key="d1">person</data>
+  <data key="d2">Nolan Grayson is Mark's father, a powerful Viltrumite who initially presents himself as a hero but harbors ulterior motives.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Cecil Stedman">
+  <data key="d0">Cecil Stedman</data>
+  <data key="d1">person</data>
+  <data key="d2">Cecil Stedman leads the Global Defense Agency, tasked with overseeing and regulating superheroes. His relationship with Invincible is complex, marked by trust issues and differing ideologies.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Conquest">
+  <data key="d0">Conquest</data>
+  <data key="d1">person</data>
+  <data key="d2">Conquest is an ancient Viltrumite warrior who poses a significant threat to Invincible and Earth.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Angstrom Levy">
+  <data key="d0">Angstrom Levy</data>
+  <data key="d1">person</data>
+  <data key="d2">Angstrom Levy becomes Invincible's arch-nemesis, driven mad by his experiments and ultimately met with death at the hands of Robot.&lt;SEP&gt;Angstrom Levy is a character in the Invincible universe and appears to have died, causing an emotional reaction from Mark Grayson.</data>
+  <data key="d3">chunk-45ec77ce77497b61a692bbd5719e32a2&lt;SEP&gt;chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Robot">
+  <data key="d0">Robot</data>
+  <data key="d1">person</data>
+  <data key="d2">Robot is a powerful android who plays a pivotal role in several events within the story. He kills Cecil Stedman and eventually decapitates Angstrom Levy.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Viltrumite Empire">
+  <data key="d0">Viltrumite Empire</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Viltrumite Empire is a tyrannical, multiplanetary civilization led by Thragg, seeking conquest and domination.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Global Defense Agency (GDA)">
+  <data key="d0">Global Defense Agency (GDA)</data>
+  <data key="d1">organization</data>
+  <data key="d2">The GDA is a government agency tasked with overseeing superheroes and managing threats to global security.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="United States Government">
+  <data key="d0">United States Government</data>
+  <data key="d1">organization</data>
+  <data key="d2">The U.S. Government interacts with Invincible and the Global Defense Agency, often embroiled in conflicts related to extraterrestrial threats.</data>
+  <data key="d3">chunk-5b47b87a4ccfd86cb292a393231d4be3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Oreilles Vulnérables">
+  <data key="d0">Oreilles Vulnérables</data>
+  <data key="d1">organization</data>
+  <data key="d2">Oreilles Vulnérables is an organization focused on raising awareness and providing support related to hearing health.</data>
+  <data key="d3">chunk-023f0462d74f708113bc305e1289aba7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Tempérament court">
+  <data key="d0">Tempérament court</data>
+  <data key="d1">category</data>
+  <data key="d2">Refers to a personality type characterized by impatience and irritability.</data>
+  <data key="d3">chunk-1547a93c2351937e333a013ebdbd3c74</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Les pulsations de fréquence">
+  <data key="d0">Les pulsations de fréquence</data>
+  <data key="d1">category</data>
+  <data key="d2">Refers to heart palpitations, a condition characterized by irregular or rapid heartbeat.</data>
+  <data key="d3">chunk-1547a93c2351937e333a013ebdbd3c74</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="vol">
+  <data key="d0">vol</data>
+  <data key="d1">category</data>
+  <data key="d2">Refers to flight, the act of traveling through the air.</data>
+  <data key="d3">chunk-1547a93c2351937e333a013ebdbd3c74</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="saignements">
+  <data key="d0">saignements</data>
+  <data key="d1">category</data>
+  <data key="d2">Refers to bleeding, the loss of blood from the body.</data>
+  <data key="d3">chunk-1547a93c2351937e333a013ebdbd3c74</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Comic Books">
+  <data key="d0">Comic Books</data>
+  <data key="d1">category</data>
+  <data key="d2">This refers to the original source material for the Invincible story, known for its complex characters and mature themes.</data>
+  <data key="d3">chunk-45ec77ce77497b61a692bbd5719e32a2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Television Series">
+  <data key="d0">Television Series</data>
+  <data key="d1">category</data>
+  <data key="d2">Television Series is an adaptation of the Invincible comic book series, bringing the story to a wider audience through visual storytelling and character development.</data>
+  <data key="d3">chunk-45ec77ce77497b61a692bbd5719e32a2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Heroes Wiki">
+  <data key="d0">Heroes Wiki</data>
+  <data key="d1">organization</data>
+  <data key="d2">Heroes Wiki is a fan-run website dedicated to information about superheroes and comic books.</data>
+  <data key="d3">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Wikipedia">
+  <data key="d0">Wikipedia</data>
+  <data key="d1">organization</data>
+  <data key="d2">Wikipedia is an online encyclopedia providing comprehensive information on various topics, including Invincible.</data>
+  <data key="d3">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rotten Tomatoes">
+  <data key="d0">Rotten Tomatoes</data>
+  <data key="d1">organization</data>
+  <data key="d2">Rotten Tomatoes is a review aggregator website that compiles critic ratings for movies and television shows.</data>
+  <data key="d3">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Radio Times">
+  <data key="d0">Radio Times</data>
+  <data key="d1">organization</data>
+  <data key="d2">Radio Times is a British magazine and website providing information about television programming.</data>
+  <data key="d3">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Invincible (comics)">
+  <data key="d0">Invincible (comics)</data>
+  <data key="d1">category</data>
+  <data key="d2">Invincible (comics) refers to the superhero comic book series and its associated storylines.</data>
+  <data key="d3">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Invincible (TV series)">
+  <data key="d0">Invincible (TV series)</data>
+  <data key="d1">category</data>
+  <data key="d2">Invincible (TV series) is the animated adaptation of the Invincible comic book series.</data>
+  <data key="d3">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Elara">
+  <data key="d0">Elara</data>
+  <data key="d1">person</data>
+  <data key="d2">Elara is a young girl who discovers a mysterious book and uses it to awaken ancient creatures.</data>
+  <data key="d3">chunk-16e0caedcaeb189687cab1d6cbadf2d2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="The Book">
+  <data key="d0">The Book</data>
+  <data key="d1">category</data>
+  <data key="d2">The Book is a magical, animated tome containing secrets and instructions for awakening ancient creatures.</data>
+  <data key="d3">chunk-16e0caedcaeb189687cab1d6cbadf2d2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="The Village">
+  <data key="d0">The Village</data>
+  <data key="d1">geo</data>
+  <data key="d2">The Village is a secluded place where Elara lives.</data>
+  <data key="d3">chunk-16e0caedcaeb189687cab1d6cbadf2d2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="The Abandoned Library">
+  <data key="d0">The Abandoned Library</data>
+  <data key="d1">geo</data>
+  <data key="d2">The Abandoned Library is a ruined structure where Elara finds the book.</data>
+  <data key="d3">chunk-16e0caedcaeb189687cab1d6cbadf2d2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="The Forest">
+  <data key="d0">The Forest</data>
+  <data key="d1">geo</data>
+  <data key="d2">The Forest surrounds the village and is where Elara follows the book's instructions.</data>
+  <data key="d3">chunk-16e0caedcaeb189687cab1d6cbadf2d2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="The Crystal Dragon">
+  <data key="d0">The Crystal Dragon</data>
+  <data key="d1">person</data>
+  <data key="d2">The Crystal Dragon is an ancient creature awakened by Elara who is willing to grant a wish.</data>
+  <data key="d3">chunk-16e0caedcaeb189687cab1d6cbadf2d2</data>
+  <data key="d4">unknown_source</data>
+</node>
+<edge source="Invincible" target="Viltrumites">
+  <data key="d5">10.0</data>
+  <data key="d6">Invincible struggles to reconcile his own heroic ideals with the Viltrumite heritage he inherited from his father. This conflict drives much of his character development.</data>
+  <data key="d7">identity crisis, ethical dilemmas, superhero origins</data>
+  <data key="d8">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Invincible" target="Mark Grayson">
+  <data key="d5">9.0</data>
+  <data key="d6">Mark Grayson adopts the persona of 'Invincible' as a way to use his powers for good, grappling with the legacy of his Viltrumite heritage and striving to be a true hero.</data>
+  <data key="d7">superhero identity, self-discovery, heroism</data>
+  <data key="d8">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Invincible" target="Atom Eve">
+  <data key="d5">8.0</data>
+  <data key="d6">Atom Eve forms a romantic relationship with Invincible, providing emotional support and challenging him in ways that help him grow as a person and superhero.</data>
+  <data key="d7">romantic partnership, teamwork, personal growth</data>
+  <data key="d8">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Mark Grayson" target="Omni-Man">
+  <data key="d5">9.0</data>
+  <data key="d6">Mark Grayson discovers that Omni-Man is secretly an alien Viltrumite with plans to conquer Earth, creating conflict between father and son.</data>
+  <data key="d7">family relationships, betrayal, superhero conflict</data>
+  <data key="d8">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Mark Grayson" target="Atom Eve">
+  <data key="d5">8.0</data>
+  <data key="d6">Mark Grayson forms a romantic relationship with Atom Eve, adding a layer of personal connection to his superhero life.</data>
+  <data key="d7">romantic relationships, superhero teamwork</data>
+  <data key="d8">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Mark Grayson" target="Terra">
+  <data key="d5">7.0</data>
+  <data key="d6">Terra is the daughter of Mark Grayson (Invincible), adding another layer to his life as a hero and further emphasizing his responsibility for protecting others and upholding justice.</data>
+  <data key="d7">family ties, legacy, heroism</data>
+  <data key="d8">chunk-29de497ae560bafcf8e0abd351378cc7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Amazon Prime Video" target="Invincible (TV series)">
+  <data key="d5">9.0</data>
+  <data key="d6">Amazon Prime Video offers streaming access to the Invincible TV series, making it available to subscribers for viewing." &lt;|"streaming platform, original content</data>
+  <data key="d7">9</data>
+  <data key="d8">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Force surhumaine" target="Canada">
+  <data key="d5">8.0</data>
+  <data key="d6">Force surhumaine is based in Canada, indicating its national origin and market focus."|&lt;|"location, publishing</data>
+  <data key="d7">8</data>
+  <data key="d8">chunk-b8b742930b19ee1438f2c86ca9151dc2</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="David Hiles" target="secondes">
+  <data key="d5">7.0</data>
+  <data key="d6">The transportation of David Hiles takes place over seconds, indicating high speed."|</data>
+  <data key="d7">time scale, speed</data>
+  <data key="d8">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="David Hiles" target="minutes">
+  <data key="d5">9.0</data>
+  <data key="d6">David Hiles reaches orbit within minutes, suggesting rapid travel to space.</data>
+  <data key="d7">time to destination, spatial achievement</data>
+  <data key="d8">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="David Hiles" target="orbite">
+  <data key="d5">10.0</data>
+  <data key="d6">David Hiles achieves orbit around a celestial body, indicating successful space travel."|</data>
+  <data key="d7">space travel, orbital achievement</data>
+  <data key="d8">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="David Hiles" target="balles">
+  <data key="d5">7.0</data>
+  <data key="d6">David Hiles evades projectiles during his transportation, implying danger and survival skills."|</data>
+  <data key="d7">danger evasion, skill set</data>
+  <data key="d8">chunk-18b36c49ca53e461ca2260533379ee9e</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="..." target="...">
+  <data key="d5">6.0</data>
+  <data key="d6">The description suggests the individual possesses extraordinary endurance, exemplified by a prolonged fight against their father. "|</data>
+  <data key="d7">physical strength, familial conflict</data>
+  <data key="d8">chunk-74d6d7ed7e8ad8413994096a654166db</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Système d'équilibre complexe dans les oreilles internes" target="Voyage interstellaire">
+  <data key="d5">6.0</data>
+  <data key="d6">A complex system of balance in the inner ear may be necessary for navigating the challenges of interstellar travel, such as weightlessness and gravitational shifts."|&lt;|"biological adaptation, space travel</data>
+  <data key="d7">6</data>
+  <data key="d8">chunk-d8e806196a0decfe7091e8dd40ece0bc</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Survive" target="Capacité pulmonaire accrue">
+  <data key="d5">7.0</data>
+  <data key="d6">Survive's function involves increased lung capacity, enabling survival in harsh environments.</data>
+  <data key="d7">survival skills, physiological adaptation</data>
+  <data key="d8">chunk-19dbea2398c9f58e7406437489b88a39</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Une maladie" target="Immunisé contre les maladies">
+  <data key="d5">8.0</data>
+  <data key="d6">Être immunisé signifie être protégé contre l'effet des maladies.</data>
+  <data key="d7">protection, santé</data>
+  <data key="d8">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Immunisé" target="Maladies">
+  <data key="d5">9.0</data>
+  <data key="d6">Being immunized provides protection against diseases."|&lt;|"protection, immunity</data>
+  <data key="d7">9</data>
+  <data key="d8">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Maladies" target="Vieillissement ralenti">
+  <data key="d5">6.0</data>
+  <data key="d6">Slower aging may reduce susceptibility to diseases."|&lt;|"healthspan, longevity</data>
+  <data key="d7">6</data>
+  <data key="d8">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Régénération" target="Blessures graves">
+  <data key="d5">8.0</data>
+  <data key="d6">Regeneration is the process of healing serious injuries."|&lt;|"healing, repair</data>
+  <data key="d7">8</data>
+  <data key="d8">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Régénération" target="Bras cassé">
+  <data key="d5">7.0</data>
+  <data key="d6">A broken arm can be healed through the process of regeneration."|&lt;|"injury, recovery</data>
+  <data key="d7">7</data>
+  <data key="d8">chunk-7405f8cdd9ebfa0a513c3f42addafc34</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Vieillit lentement" target="Génétique dominante">
+  <data key="d5">7.0</data>
+  <data key="d6">Vieillit lentement is described as a characteristic linked to a dominant genetic trait.</data>
+  <data key="d7">genetic influence, aging pattern</data>
+  <data key="d8">chunk-2b7ec891c32d97c5a6a27693875447b8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Tempérament court" target="Les pulsations de fréquence">
+  <data key="d5">7.0</data>
+  <data key="d6">Individuals with a short temper may be more prone to experiencing disruptions from heart palpitations, potentially leading to negative consequences. </data>
+  <data key="d7">medical condition, psychological trait</data>
+  <data key="d8">chunk-1547a93c2351937e333a013ebdbd3c74</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Les pulsations de fréquence" target="vol">
+  <data key="d5">6.0</data>
+  <data key="d6">Heart palpitations can potentially disrupt flight due to physical discomfort or concerns about health risks during air travel. </data>
+  <data key="d7">medical condition, travel impact</data>
+  <data key="d8">chunk-1547a93c2351937e333a013ebdbd3c74</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Les pulsations de fréquence" target="saignements">
+  <data key="d5">9.0</data>
+  <data key="d6">In some cases, heart palpitations can lead to internal bleeding as a serious complication. </data>
+  <data key="d7">health risk, medical consequence</data>
+  <data key="d8">chunk-1547a93c2351937e333a013ebdbd3c74</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Heroes Wiki" target="Invincible (comics)">
+  <data key="d5">9.0</data>
+  <data key="d6">Heroes Wiki contains information about the Invincible comic book series, including details on characters, plot points, and events within the storyline." &lt;|"comic book information, fan wiki</data>
+  <data key="d7">9</data>
+  <data key="d8">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Wikipedia" target="Invincible (comics)">
+  <data key="d5">8.0</data>
+  <data key="d6">Wikipedia provides a summary of the Invincible comic book series, offering an overview of its characters, themes, and plot developments." &lt;|"encyclopedia entry, comic book synopsis</data>
+  <data key="d7">8</data>
+  <data key="d8">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rotten Tomatoes" target="Invincible (TV series)">
+  <data key="d5">7.0</data>
+  <data key="d6">Rotten Tomatoes gathers reviews from critics and assigns a score to the Invincible TV series based on their assessments of its quality and performance." &lt;|"critics' ratings, television review</data>
+  <data key="d7">7</data>
+  <data key="d8">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Radio Times" target="Invincible (TV series)">
+  <data key="d5">6.0</data>
+  <data key="d6">Radio Times provides news and updates about the Invincible TV series, including information on release dates, cast members, and upcoming seasons." &lt;|"television programming guide, entertainment news</data>
+  <data key="d7">6</data>
+  <data key="d8">chunk-7960578564278b4cd4ed2ebb4e4e15a1</data>
+  <data key="d9">unknown_source</data>
+</edge>
+</graph></graphml>
